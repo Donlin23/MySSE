@@ -1,0 +1,6 @@
+# IDEA File
+*.iml
+.idea/
+
+# Class
+*.class

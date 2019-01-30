@@ -6,7 +6,5 @@
 *.class
 
 # Data file
-*.txt
+#*.txt
 
-# all file
-*.*

@@ -4,3 +4,9 @@
 
 # Class
 *.class
+
+# Data file
+*.txt
+
+# all file
+*.*
